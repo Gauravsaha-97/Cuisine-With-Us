@@ -167,7 +167,7 @@ form ion-icon {
     font-size: 1.4rem;
     font-weight: bold;
     margin-top: 15px;
-    border-radius: 410px;
+    border-radius: 415px;
     align-self: flex-start;
 }
 
@@ -189,7 +189,7 @@ form ion-icon {
         max-width: 500px;
     }
     .container.initial form input {
-        padding: 15px;
+        padding: 16px;
         font-size: 2rem;
     }
     .search-result {
