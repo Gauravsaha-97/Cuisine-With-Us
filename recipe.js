@@ -31,7 +31,6 @@ async function getData() {
         recipedata.style.display = "grid";
         displayData(data.hits);
     }
-
     //else display "No data found"
     else {
         container.classList.remove("initial");
